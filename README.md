@@ -9,6 +9,10 @@ I'm a software engineer with a passion for making contributing to open source mo
 
 My passion in the Blockchian ecosystem and robust smart contract development has led me to commit to open source development around Blockchain.
 
+# Find me around the web earth_americas:
+Sharing updates on LinkedIn briefcase
+
+
 <!---
 Mr-DecodeBlock/Mr-DecodeBlock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
