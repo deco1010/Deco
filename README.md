@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Mr-DecodeBlock :blue_heart:
 
-https://miro.medium.com/max/800/1*i4W8PxhFqZ-ZdAZS8DDDgA.jpeg
+[](https://miro.medium.com/max/800/1*i4W8PxhFqZ-ZdAZS8DDDgA.jpeg)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
