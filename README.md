@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @Mr-DecodeBlock :blue_heart:
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0yKCOgm4vCJojACEfo0rJbYqTNBJmqBLh4Dm08UOr_eZuN8QZf_bo9tFuy73oURPKro&usqp=CAU)
 ![](https://pbs.twimg.com/profile_banners/1511471884067606531/1649373934/1500x500)
 
 I'm a software engineer with a passion for making contributing to open source more accessible, creating technology to uplift people and build community. Some technologies I enjoy working with include Solidity, TypeScript, React, Next.js and Node.
