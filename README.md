@@ -9,7 +9,7 @@ My passion in the Blockchian ecosystem and robust smart contract development has
 # Find me on my social networks
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/mr-decode-block-115591236/)
 - :blue_book: [Twitter](https://twitter.com/MrDecodeBlock)
-- :hearts: [Facebook](https://m.me/J71535)
+- :hearts: [Facebook](https://m.me/mrdecodeblock)
 
 
 <!---
