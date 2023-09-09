@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Mr-DecodeBlock :blue_heart:
+# 👋 Hi :blue_heart:
 
 ![](https://scontent.fbga3-1.fna.fbcdn.net/v/t39.30808-6/276286874_174721808216515_7567068399980466855_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHTWtMUqJ4RnxYfpjULjqvU1N4OnJSMftjU3g6clIx-2LIhFutwKObqY_0TahRnZ4dWPpmEPKwdlvHaoyDJGcV1&_nc_ohc=S0Nt8VBt2tQAX-R0T_E&_nc_ht=scontent.fbga3-1.fna&oh=00_AfCWd2Y_5d950TvrQSoqIdVJORTCIjp-nh7q1Tc63e-uKA&oe=644BAABD)
 
@@ -9,13 +9,4 @@ I'm a software engineer with a passion for making contributing to open source mo
 
 My passion in the Blockchian ecosystem and robust smart contract development has led me to commit to open source development around Blockchain.
 
-# Find me on my social networks
-- :briefcase: [LinkedIn](https://www.linkedin.com/in/mr-decode-block-115591236/)
-- :blue_book: [Twitter](https://twitter.com/MrDecodeBlock)
-- :hearts: [Facebook](https://m.me/mrdecodeblock)
 
-
-<!---
-Mr-DecodeBlock/Mr-DecodeBlock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
