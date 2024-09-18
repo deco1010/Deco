@@ -1,8 +1,5 @@
 # 👋 Hi there! I’m **Blockchain Advisor & Developer** :blue_heart:
 
-![Your Image](https://example.com/your-photo.jpg)  
-*(Aquí podrías poner una imagen tuya o algo representativo de blockchain)*
-
 ---
 
 🚀 **About Me:**
