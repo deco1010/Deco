@@ -1,12 +1,59 @@
-# 👋 Hi :blue_heart:
+# 👋 Hi there! I’m **Blockchain Advisor & Developer** :blue_heart:
 
-![](https://scontent.fbga3-1.fna.fbcdn.net/v/t39.30808-6/276286874_174721808216515_7567068399980466855_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHTWtMUqJ4RnxYfpjULjqvU1N4OnJSMftjU3g6clIx-2LIhFutwKObqY_0TahRnZ4dWPpmEPKwdlvHaoyDJGcV1&_nc_ohc=S0Nt8VBt2tQAX-R0T_E&_nc_ht=scontent.fbga3-1.fna&oh=00_AfCWd2Y_5d950TvrQSoqIdVJORTCIjp-nh7q1Tc63e-uKA&oe=644BAABD)
+![Your Image](https://example.com/your-photo.jpg)  
+*(Aquí podrías poner una imagen tuya o algo representativo de blockchain)*
 
-![](https://camo.githubusercontent.com/ba1e85d8e39b80f98a9dc0e3a8f81558d77ea2c46f97768447ddc3111068c802/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d6536653665363f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d626c61636b) ![](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) ![](https://camo.githubusercontent.com/a73995ab41ea4dafd1d3afc34acfa889d8345b8760bed0c29b0419d6529dcc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/771617f2eac4ed5bc7d9ae680e4edafef9ba31bbb4d0d30ea21cf944dfa62a81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/12eaf6d063ca61de3ec8182100f2ae6b8dcc043d125f2db3c7a15785ff02d866/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d363144424642) ![](https://camo.githubusercontent.com/8af2cf01b28f2f49a5a681da9aad00909a0982b3040928b723a6c636360c06bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652d3433383533643f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+---
 
+🚀 **About Me:**
 
-I'm a software engineer with a passion for making contributing to open source more accessible, creating technology to uplift people and build community. Some technologies I enjoy working with include Solidity, TypeScript, React, Next.js and Node.
+I'm a **software engineer** with a deep passion for building and scaling innovative technologies, particularly in the **blockchain** space. Over the years, I've helped numerous **startups** and **fintechs** grow, guiding them from idea to product launch. Whether it’s building robust **smart contracts** or creating scalable **DeFi** solutions, I’m committed to using technology to solve real-world problems.
 
-My passion in the Blockchian ecosystem and robust smart contract development has led me to commit to open source development around Blockchain.
+---
 
+💼 **What I Do:**
+
+I specialize in providing **end-to-end blockchain solutions**, from development to advisory, empowering businesses to unlock their full potential. My work spans across:
+
+- **Blockchain Development:** #Solidity #EVM #SmartContracts  
+- **Blockchain Security Audits:** Identifying and mitigating vulnerabilities in protocols  
+- **Startup Scalability:** Helping businesses grow with blockchain solutions  
+- **Fintech Innovation:** Bridging traditional finance and blockchain  
+
+---
+
+💡 **Key Skills & Expertise:**
+
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+- **Blockchain Solutions Architecture** – Building sidechains, bridges, and scalable solutions
+- **DeFi Protocols & Stablecoins** – Design, implementation, and scaling of decentralized financial systems
+- **DApp Development** – Creating decentralized applications that are intuitive and secure
+- **DAO Implementation** – Building decentralized governance structures for communities
+- **API Development** – Connecting blockchain to the web with seamless integrations (MetaMask, WalletConnect)
+- **Database Management** – Expertise in MongoDB, Redis, and GraphQL
+- **Proof-of-Stake (PoS) Algorithms** – Implementing and optimizing blockchain consensus mechanisms
+
+---
+
+🌐 **Fintech & Startup Expertise:**
+
+I’ve had the privilege to advise and work with some amazing **fintech** and **startup** projects, helping them raise capital, optimize operations, and scale their products using cutting-edge **blockchain** technology.
+
+- **Blockchain-based Payment Systems**
+- **P2P Transfer Solutions**
+- **Tokenomics Design for Startups**
+- **Building Decentralized Exchanges (DEXs)**
+
+---
+
+💬 **Let’s Build the Future Together:**
+
+If you’re looking to take your **fintech**, **startup**, or **blockchain project** to the next level, I’m here to help! Whether you need a **developer**, **advisor**, or a **strategic partner**, let’s collaborate to create impactful, scalable solutions.
+
+---
 
