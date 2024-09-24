@@ -52,3 +52,8 @@ If you’re looking to take your **fintech**, **startup**, or **blockchain proje
 
 ---
 
+💬 **Contact:**
+Email: deco31416@gmail.com
+
+---
+
