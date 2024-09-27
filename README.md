@@ -2,7 +2,7 @@
 
 🚀 **About Me:**
 
-I'm a **software engineer** with a deep passion for building and scaling innovative technologies, particularly in the **blockchain** space. Over the years, I've helped numerous **startups** and **fintechs** grow, guiding them from idea to product launch. Whether it’s building robust **smart contracts** or creating scalable **DeFi** solutions, I’m committed to using technology to solve real-world problems.
+I'm a **systems engineer** with a deep passion for building and scaling innovative technologies, particularly in the **blockchain** space. Over the years, I've helped numerous **startups** and **fintechs** grow, guiding them from idea to product launch. Whether it’s building robust **smart contracts** or creating scalable **DeFi** solutions, I’m committed to using technology to solve real-world problems.
 
 ---
 
