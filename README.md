@@ -1,11 +1,6 @@
 ![deco31416](https://github.com/deco31416/deco31416/blob/main/public/Header.svg)
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/deco31416)
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deco31416)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/deco31416)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/4vwQFmd2)
-
 ### 🚀 **About Me:**
 
 👋 Hi there! I’m **Blockchain Advisor & Developer** :blue_heart:
@@ -82,4 +77,8 @@ If you’re looking to take your **fintech**, **startup**, or **blockchain proje
 - **Email:** [contacto@deco31416.com](mailto:contacto@deco31416.com)
 - **Website:** [https://www.deco31416.com/](https://www.deco31416.com/)
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/deco31416)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deco31416)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/deco31416)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/4vwQFmd2)
 ---
