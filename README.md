@@ -1,3 +1,5 @@
+![deco31416](C:\Users\hp\Desktop\deco31416\public\deco31416.svg)
+
 # 👋 Hi there! I’m **Blockchain Advisor & Developer** :blue_heart:
 
 🚀 **About Me:**
