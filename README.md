@@ -1,8 +1,14 @@
 ![deco31416](https://github.com/deco31416/deco31416/blob/main/public/Header.svg)
 
-# 👋 Hi there! I’m **Blockchain Advisor & Developer** :blue_heart:
 
-🚀 **About Me:**
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/deco31416)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deco31416)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/deco31416)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/4vwQFmd2)
+
+### 🚀 **About Me:**
+
+👋 Hi there! I’m **Blockchain Advisor & Developer** :blue_heart:
 
 I'm a **systems engineer** with a deep passion for building and scaling innovative technologies, particularly in the **blockchain** space. Over the years, I've helped numerous **startups** and **fintechs** grow, guiding them from idea to product launch. Whether it’s building robust **smart contracts** or creating scalable **DeFi** solutions, I’m committed to using technology to solve real-world problems.
 
@@ -20,12 +26,27 @@ I specialize in providing **end-to-end blockchain solutions**, from development 
 ---
 
 💡 **Key Skills & Expertise:**
-
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Amazon%20Cloud-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Cloud">
+  <img src="https://img.shields.io/badge/Security-%23FFD700.svg?style=for-the-badge&logo=security&logoColor=black" alt="Security">
+  <img src="https://img.shields.io/badge/OSINT-008080?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSINT">
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Blockchain Technologies">
+  <img src="https://img.shields.io/badge/EMV-Ethereum-%23646CFF?style=for-the-badge&logo=ethereum&logoColor=white" alt="EMV Compatible">
+  <img src="https://img.shields.io/badge/Fintech-4CAF50?style=for-the-badge&logo=fintech&logoColor=white" alt="Fintech Development">
+  <img src="https://img.shields.io/badge/Startups-%23FF4500?style=for-the-badge&logo=startups&logoColor=white" alt="Startups">
+</p>
 
 - **Blockchain Solutions Architecture** – Building sidechains, bridges, and scalable solutions
 - **DeFi Protocols & Stablecoins** – Design, implementation, and scaling of decentralized financial systems
@@ -55,7 +76,7 @@ If you’re looking to take your **fintech**, **startup**, or **blockchain proje
 ---
 
 📬 **Contact:**
-- **Email:** [deco31416@gmail.com](mailto:deco31416@gmail.com)
+- **Email:** [contacto6@deco31416.com](mailto:deco31416@gmail.com)
 - **Website:** [https://www.deco31416.com/](https://www.deco31416.com/)
 
 ---
