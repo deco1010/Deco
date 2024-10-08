@@ -1,4 +1,4 @@
-![deco31416](\deco31416\public\deco31416.svg)
+![deco31416](https://github.com/deco31416/deco31416/blob/main/public/deco31416.svg)
 
 # 👋 Hi there! I’m **Blockchain Advisor & Developer** :blue_heart:
 
