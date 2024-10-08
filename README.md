@@ -75,9 +75,11 @@ If you’re looking to take your **fintech**, **startup**, or **blockchain proje
 
 ---
 
+🚀 **Let's discuss your project today!** Contact me for a **free consultation** or to explore how we can work together. I’m excited to learn about your goals and help you achieve them.
+
+
 📬 **Contact:**
-- **Email:** [contacto6@deco31416.com](mailto:deco31416@gmail.com)
+- **Email:** [contacto@deco31416.com](mailto:contacto@deco31416.com)
 - **Website:** [https://www.deco31416.com/](https://www.deco31416.com/)
 
 ---
-
