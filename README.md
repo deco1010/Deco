@@ -1,9 +1,9 @@
-![deco31416](https://github.com/deco31416/deco31416/blob/main/public/Header.svg)
+![deco31416](https://github.com/deco31416/deco31416/blob/main/public/header-deco.svg)
 
 
 ### 🚀 **About Me:**
 
-👋 Hi there! I’m **Blockchain Advisor & Developer** :blue_heart:
+👋 Hi there! I’m **Blockchain & Fintech Architect | Senior Developer** :blue_heart:
 
 I'm a **systems engineer** with a deep passion for building and scaling innovative technologies, particularly in the **blockchain** space. Over the years, I've helped numerous **startups** and **fintechs** grow, guiding them from idea to product launch. Whether it’s building robust **smart contracts** or creating scalable **DeFi** solutions, I’m committed to using technology to solve real-world problems.
 
